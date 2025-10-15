@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-UCSB' 28 Undergrad
+UCSB' 27 Undergrad
 
 he/him
 
