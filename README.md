@@ -1,21 +1,10 @@
 ## Hi there 👋
 
-UCSB' 27 Undergrad
+I'm Yuhang, a CS student at Georgia Tech ('28) who likes building data and software tools that hold up in the real world.
 
-he/him
+- 🔭 Most recently a Data Science Intern at Syngenta, moving a crop-yield prediction pipeline to Snowflake (30+ min → ~5 min runs)
+- 🛠️ Python · SQL · Snowflake · AWS · PyTorch · FastAPI
+- 🌱 Looking for Summer 2027 internships and co-ops in software engineering, data engineering and ML
+- 📫 [LinkedIn](https://www.linkedin.com/in/yuhang-jiang5546)
 
-🏀🎮🏃‍➡️
-<!--
-**yuhangj554/yuhangj554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+he/him · 🏀🎮🏃‍➡️
